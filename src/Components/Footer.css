@@ -1,0 +1,18 @@
+.footer{
+    color: rgb(255, 255, 255);
+    background-color: rgb(107, 107, 107);
+}
+.footer1{
+    color: white;
+    padding-left: 100px;
+    padding-top: 30px;
+    display: flex;
+    
+}
+.footer2{
+    padding-left: 100px;
+    color:white;
+}
+.git{
+    color: white;
+}

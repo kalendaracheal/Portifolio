@@ -1,0 +1,76 @@
+
+.e-img{
+    height: 50%;
+    width: 40%;
+    border-radius: 50%;
+    margin-left: 3px;
+    
+}
+.details{
+    height: 100vh;
+    align-items: center;
+/* background-color: rgb(245, 228, 236); */
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8tkzy1K9cTQEP3GthiN5jG0qczbjwMVI4Jg&usqp=CAU');
+    flex: 1;
+display: flex;
+}
+.rightbar1{
+    width: 400px;
+    height: 50px;
+    align-items: center;
+    padding-left: 50px;
+    
+    
+}
+/* .profile{
+    border-radius: 30px;
+    background-color: white;
+    border: 2px solid purple;
+    width: 80%;
+    height: 40px;
+} */
+.outlet{
+    /* background-color: rgb(241, 226, 238); */
+   background-color: beige;
+    width: 70%;
+    height: 300px;
+    align-items: center;
+    padding: 50px;
+    border:2px solid rgb(201, 170, 188);
+    border-radius: 5px;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 2%;
+
+    
+}
+#profile, #education, #skills, #achievements, #workexperience{
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(58, 4, 37);
+      border: 2px solid rgb(148, 99, 148);
+      width: 300px;
+      height: 40px;
+      margin-left: 10%;
+      margin-top: 3%;
+      font-size: large;
+    }
+    .btn1{
+      
+      justify-content:space-evenly;
+      /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8tkzy1K9cTQEP3GthiN5jG0qczbjwMVI4Jg&usqp=CAU'); */
+background-color: white;
+      /* background-color: rgb(227, 233, 235); */
+    
+    }
+    .container1{
+        /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8tkzy1K9cTQEP3GthiN5jG0qczbjwMVI4Jg&usqp=CAU'); */
+
+       background-color: white;
+        /* background-color: rgb(227, 233, 235); */
+    }
+    .containert{
+        display: flex; 
+        justify-content:space-evenly; 
+        
+    }

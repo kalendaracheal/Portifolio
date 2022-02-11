@@ -1,0 +1,64 @@
+.p{
+    width: 30%;
+    height: 80vh;
+    margin:20px 10px;
+    border: 2px solid rgb(223, 217, 221);
+    border-radius: 10px 10px 0px 0px;
+    overflow: hidden;
+    margin-left: 100px;
+    
+    
+}
+.p-browser{
+    height: 30px;
+    background-color: rgb(240, 218, 240);
+    align-items: center;
+    display: flex;
+    padding-left: 10px;
+    
+    
+}
+.p-circle1{
+    width: 10px;
+    height: 10px;
+    background-color: purple;
+    border-radius: 50%;
+    margin: 3px;
+    
+}
+.p-circle2{
+    width: 10px;
+    height: 10px;
+    background-color: green;
+    border-radius: 50%;
+    margin: 3px;
+    
+}
+.p-circle3{
+    width: 10px;
+    height: 10px;
+    background-color: blue;
+    border-radius: 50%;
+    margin: 3px;
+    
+}
+.title{
+    padding-left: 10px;
+    color: rgb(109, 11, 109);
+}
+.testimonial{
+    width: 80%;
+    height: 70vh;
+    overflow: hidden;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+.t-img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.t-container{
+    display: flex;
+}
